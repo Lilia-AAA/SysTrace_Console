@@ -1,0 +1,28 @@
+build/
+mx.scratch
+!.settings
+*.elf
+*.bin
+*.hex
+*.o
+*.d
+*.map
+
+.vscode/
+#Visual Studio / CMake
+.vs/
+cmake.db
+sln.sqlite
+
+#private note
+面试准备.md
+
+#editor cache
+bundles*.json
+ide.store.json
+
+#vscode clang
+.clangd
+
+#OS
+.DS_Store
