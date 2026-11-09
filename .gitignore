@@ -15,7 +15,7 @@ cmake.db
 sln.sqlite
 
 #private note
-面试准备.md
+private_note.md
 
 #editor cache
 bundles*.json
